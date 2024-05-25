@@ -119,3 +119,4 @@ func IsBanner(s string) bool {
 	}
 	return false
 }
+//jh
